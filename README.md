@@ -8,7 +8,8 @@ exp 3
 
 
 exp 7
-
+%start of experiment 
+% to study effects of filters on various artifacts of ecg singals
 
 function analyzeECGFilters()
 data = load('s0010_rem.mat'); % Replace 'rec_1.mat' with your file name
